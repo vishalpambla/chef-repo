@@ -5,5 +5,6 @@
 # Copyright:: 2021, The Authors, All Rights Reserved.
 file "/f1" do
 content "hello amit"
+  content "hello pranveer"
 action :create
 end
